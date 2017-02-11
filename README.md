@@ -3,5 +3,5 @@ This project creates a web app version of instragram using Ruby of Rails. I foll
 
 [![Dropdown menu](https://postimg.org/image/uoglwoq0n/)
 [![Login page](https://postimg.org/image/mhthgaadr/)
-[![Register page](https://postimg.org/image/r4k0ief4t/)
+[![Register page](https://s30.postimg.org/r4k0ief4x/Screen_Shot_2017_02_10_at_2_02_29_PM.png)
 [![New Post page](https://postimg.org/image/gjthyt0bb/)
